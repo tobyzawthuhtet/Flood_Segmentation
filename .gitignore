@@ -1,0 +1,13 @@
+resources.txt
+csv_data
+.ipynb_checkpoints
+Preds.zip
+Model
+content
+Notebooks/1.Sentinel_2_Index_Label_Weak_with_S1_weak_Training_data.ipynb
+Notebooks/5.Sentinel_1_OtsuLabel_Weak_S1_Weak_Training_Data.ipynb
+Notebooks/6_Label_Hand_with_S1Hand_Training_data.ipynb
+Predictions
+csv_data
+Sample
+Weights
